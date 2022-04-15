@@ -1,8 +1,8 @@
 # WebD_Battle | [Tirutsava 2k22](https://tirutsava.in/)
 
-```
+
 Tirutsava's WebDev event brings you an opportunity to showcase your WebDev skills and design interactive websites. Take advantage of this fantastic opportunity and create an awesome project for your GitHub profile while demonstrating your creativity and winning prizes!
-```
+
 
 ---
 
@@ -14,8 +14,7 @@ Important Links:
 
 ---
 
-\
-Rules:\
+Rules:
 
 - It is an Individual event.
 - Participants cannot add or remove content from the given HTML file.
@@ -26,3 +25,6 @@ Rules:\
   - Github repository for the source code (maintain a readme file as well)
   - Hosted website (on GitHub Pages or any other platform)
   - Demo video of the website as seen on mobile & laptop (Optional)
+---
+
+![WebD_Battle_poster](https://github.com/SachinSahu431/WebD_Battle/blob/main/images/WebD_Battle_Tirutsava_2k22.jpeg "WebD_Battle")
